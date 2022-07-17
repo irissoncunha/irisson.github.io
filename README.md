@@ -2,8 +2,8 @@
 ## Bootcamp 2022
 
 Tecnologias usadas: 
--HTML5
--CSS
--CSS3
--BOOSTRAP
--GITHUB
+- HTML5
+- CSS
+- CSS3
+- BOOSTRAP
+- GITHUB
